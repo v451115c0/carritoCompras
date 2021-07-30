@@ -1,7 +1,7 @@
 <?php 
 
-$dbHost = '104.238.83.157';
-$dbName = 'nikkenla_marketing';
+$dbHost = '104.130.46.73:3306';
+$dbName = 'nikkenla_site';
 $dbUser = 'nikkenla_mkrt';
 $dbPass = 'NNikken2011$$';
 
