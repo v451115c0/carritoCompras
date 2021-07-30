@@ -1,0 +1,174 @@
+[31-Jan-2020 18:02:12 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/nikkenlatam/public_html/interno/carrito-compras/login-integration-incorporate-test.php on line 8
+[31-Jan-2020 18:02:13 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/nikkenlatam/public_html/interno/carrito-compras/login-integration-incorporate-test.php on line 8
+[31-Jan-2020 18:35:33 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/nikkenlatam/public_html/interno/carrito-compras/login-integration-incorporate-test.php on line 8
+[31-Jan-2020 18:37:57 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/nikkenlatam/public_html/interno/carrito-compras/login-integration-incorporate-test.php on line 8
+[24-Sep-2020 20:05:26 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8_general_ci,COERCIBLE) for operation '='' in /home/nikkenlatam/public_html/interno/carrito-compras/login-integration-incorporate.php:42
+Stack trace:
+#0 /home/nikkenlatam/public_html/interno/carrito-compras/login-integration-incorporate.php(42): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/nikkenlatam/public_html/interno/carrito-compras/login-integration-incorporate.php on line 42
+[29-Sep-2020 20:44:40 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8_general_ci,COERCIBLE) for operation '='' in /home/nikkenlatam/public_html/interno/carrito-compras/login-integration-incorporate.php:42
+Stack trace:
+#0 /home/nikkenlatam/public_html/interno/carrito-compras/login-integration-incorporate.php(42): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/nikkenlatam/public_html/interno/carrito-compras/login-integration-incorporate.php on line 42
+[13-Oct-2020 22:20:20 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8_general_ci,COERCIBLE) for operation '='' in /home/nikkenlatam/public_html/interno/carrito-compras/login-integration-incorporate.php:42
+Stack trace:
+#0 /home/nikkenlatam/public_html/interno/carrito-compras/login-integration-incorporate.php(42): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/nikkenlatam/public_html/interno/carrito-compras/login-integration-incorporate.php on line 42
+[29-Oct-2020 17:29:54 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8_general_ci,COERCIBLE) for operation '='' in /home/nikkenlatam/public_html/interno/carrito-compras/login-integration-incorporate.php:42
+Stack trace:
+#0 /home/nikkenlatam/public_html/interno/carrito-compras/login-integration-incorporate.php(42): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/nikkenlatam/public_html/interno/carrito-compras/login-integration-incorporate.php on line 42
+[29-Oct-2020 17:30:18 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8_general_ci,COERCIBLE) for operation '='' in /home/nikkenlatam/public_html/interno/carrito-compras/login-integration-incorporate.php:42
+Stack trace:
+#0 /home/nikkenlatam/public_html/interno/carrito-compras/login-integration-incorporate.php(42): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/nikkenlatam/public_html/interno/carrito-compras/login-integration-incorporate.php on line 42
+[14-Nov-2020 18:22:42 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8_general_ci,COERCIBLE) for operation '='' in /home/nikkenlatam/public_html/interno/carrito-compras/login-integration-incorporate.php:42
+Stack trace:
+#0 /home/nikkenlatam/public_html/interno/carrito-compras/login-integration-incorporate.php(42): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/nikkenlatam/public_html/interno/carrito-compras/login-integration-incorporate.php on line 42
+[15-Nov-2020 21:50:23 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8_general_ci,COERCIBLE) for operation '='' in /home/nikkenlatam/public_html/interno/carrito-compras/login-integration-incorporate.php:42
+Stack trace:
+#0 /home/nikkenlatam/public_html/interno/carrito-compras/login-integration-incorporate.php(42): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/nikkenlatam/public_html/interno/carrito-compras/login-integration-incorporate.php on line 42
+[30-Nov-2020 15:31:04 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8_general_ci,COERCIBLE) for operation '='' in /home/nikkenlatam/public_html/interno/carrito-compras/login-integration-incorporate.php:42
+Stack trace:
+#0 /home/nikkenlatam/public_html/interno/carrito-compras/login-integration-incorporate.php(42): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/nikkenlatam/public_html/interno/carrito-compras/login-integration-incorporate.php on line 42
+[10-Dec-2020 23:47:51 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8_general_ci,COERCIBLE) for operation '='' in /home/nikkenlatam/public_html/interno/carrito-compras/login-integration-incorporate.php:42
+Stack trace:
+#0 /home/nikkenlatam/public_html/interno/carrito-compras/login-integration-incorporate.php(42): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/nikkenlatam/public_html/interno/carrito-compras/login-integration-incorporate.php on line 42
+[12-Dec-2020 05:12:31 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8_general_ci,COERCIBLE) for operation '='' in /home/nikkenlatam/public_html/interno/carrito-compras/login-integration-incorporate.php:42
+Stack trace:
+#0 /home/nikkenlatam/public_html/interno/carrito-compras/login-integration-incorporate.php(42): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/nikkenlatam/public_html/interno/carrito-compras/login-integration-incorporate.php on line 42
+[12-Dec-2020 05:15:06 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8_general_ci,COERCIBLE) for operation '='' in /home/nikkenlatam/public_html/interno/carrito-compras/login-integration-incorporate.php:42
+Stack trace:
+#0 /home/nikkenlatam/public_html/interno/carrito-compras/login-integration-incorporate.php(42): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/nikkenlatam/public_html/interno/carrito-compras/login-integration-incorporate.php on line 42
+[25-Jan-2021 03:38:12 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8_general_ci,COERCIBLE) for operation '='' in /home/nikkenlatam/public_html/interno/carrito-compras/login-integration-incorporate.php:42
+Stack trace:
+#0 /home/nikkenlatam/public_html/interno/carrito-compras/login-integration-incorporate.php(42): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/nikkenlatam/public_html/interno/carrito-compras/login-integration-incorporate.php on line 42
+[25-Jan-2021 03:38:16 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8_general_ci,COERCIBLE) for operation '='' in /home/nikkenlatam/public_html/interno/carrito-compras/login-integration-incorporate.php:42
+Stack trace:
+#0 /home/nikkenlatam/public_html/interno/carrito-compras/login-integration-incorporate.php(42): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/nikkenlatam/public_html/interno/carrito-compras/login-integration-incorporate.php on line 42
+[25-Jan-2021 03:38:17 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8_general_ci,COERCIBLE) for operation '='' in /home/nikkenlatam/public_html/interno/carrito-compras/login-integration-incorporate.php:42
+Stack trace:
+#0 /home/nikkenlatam/public_html/interno/carrito-compras/login-integration-incorporate.php(42): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/nikkenlatam/public_html/interno/carrito-compras/login-integration-incorporate.php on line 42
+[25-Jan-2021 03:38:18 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8_general_ci,COERCIBLE) for operation '='' in /home/nikkenlatam/public_html/interno/carrito-compras/login-integration-incorporate.php:42
+Stack trace:
+#0 /home/nikkenlatam/public_html/interno/carrito-compras/login-integration-incorporate.php(42): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/nikkenlatam/public_html/interno/carrito-compras/login-integration-incorporate.php on line 42
+[11-Feb-2021 18:15:40 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8_general_ci,COERCIBLE) for operation '='' in /home/nikkenlatam/public_html/interno/carrito-compras/login-integration-incorporate.php:42
+Stack trace:
+#0 /home/nikkenlatam/public_html/interno/carrito-compras/login-integration-incorporate.php(42): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/nikkenlatam/public_html/interno/carrito-compras/login-integration-incorporate.php on line 42
+[01-Mar-2021 05:12:23 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8_general_ci,COERCIBLE) for operation '='' in /home/nikkenlatam/public_html/interno/carrito-compras/login-integration-incorporate.php:42
+Stack trace:
+#0 /home/nikkenlatam/public_html/interno/carrito-compras/login-integration-incorporate.php(42): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/nikkenlatam/public_html/interno/carrito-compras/login-integration-incorporate.php on line 42
+[03-Mar-2021 02:19:21 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8_general_ci,COERCIBLE) for operation '='' in /home/nikkenlatam/public_html/interno/carrito-compras/login-integration-incorporate.php:42
+Stack trace:
+#0 /home/nikkenlatam/public_html/interno/carrito-compras/login-integration-incorporate.php(42): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/nikkenlatam/public_html/interno/carrito-compras/login-integration-incorporate.php on line 42
+[03-Mar-2021 02:19:34 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8_general_ci,COERCIBLE) for operation '='' in /home/nikkenlatam/public_html/interno/carrito-compras/login-integration-incorporate.php:42
+Stack trace:
+#0 /home/nikkenlatam/public_html/interno/carrito-compras/login-integration-incorporate.php(42): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/nikkenlatam/public_html/interno/carrito-compras/login-integration-incorporate.php on line 42
+[03-Mar-2021 02:19:44 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8_general_ci,COERCIBLE) for operation '='' in /home/nikkenlatam/public_html/interno/carrito-compras/login-integration-incorporate.php:42
+Stack trace:
+#0 /home/nikkenlatam/public_html/interno/carrito-compras/login-integration-incorporate.php(42): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/nikkenlatam/public_html/interno/carrito-compras/login-integration-incorporate.php on line 42
+[18-Mar-2021 04:17:37 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8_general_ci,COERCIBLE) for operation '='' in /home/nikkenlatam/public_html/interno/carrito-compras/login-integration-incorporate.php:42
+Stack trace:
+#0 /home/nikkenlatam/public_html/interno/carrito-compras/login-integration-incorporate.php(42): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/nikkenlatam/public_html/interno/carrito-compras/login-integration-incorporate.php on line 42
+[20-Mar-2021 22:19:30 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8_general_ci,COERCIBLE) for operation '='' in /home/nikkenlatam/public_html/interno/carrito-compras/login-integration-incorporate.php:42
+Stack trace:
+#0 /home/nikkenlatam/public_html/interno/carrito-compras/login-integration-incorporate.php(42): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/nikkenlatam/public_html/interno/carrito-compras/login-integration-incorporate.php on line 42
+[23-Mar-2021 22:49:09 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8_general_ci,COERCIBLE) for operation '='' in /home/nikkenlatam/public_html/interno/carrito-compras/login-integration-incorporate.php:42
+Stack trace:
+#0 /home/nikkenlatam/public_html/interno/carrito-compras/login-integration-incorporate.php(42): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/nikkenlatam/public_html/interno/carrito-compras/login-integration-incorporate.php on line 42
+[30-Mar-2021 18:34:10 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8_general_ci,COERCIBLE) for operation '='' in /home/nikkenlatam/public_html/interno/carrito-compras/login-integration-incorporate.php:42
+Stack trace:
+#0 /home/nikkenlatam/public_html/interno/carrito-compras/login-integration-incorporate.php(42): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/nikkenlatam/public_html/interno/carrito-compras/login-integration-incorporate.php on line 42
+[30-Mar-2021 19:28:43 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8_general_ci,COERCIBLE) for operation '='' in /home/nikkenlatam/public_html/interno/carrito-compras/login-integration-incorporate.php:42
+Stack trace:
+#0 /home/nikkenlatam/public_html/interno/carrito-compras/login-integration-incorporate.php(42): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/nikkenlatam/public_html/interno/carrito-compras/login-integration-incorporate.php on line 42
+[01-Apr-2021 01:03:57 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8_general_ci,COERCIBLE) for operation '='' in /home/nikkenlatam/public_html/interno/carrito-compras/login-integration-incorporate.php:42
+Stack trace:
+#0 /home/nikkenlatam/public_html/interno/carrito-compras/login-integration-incorporate.php(42): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/nikkenlatam/public_html/interno/carrito-compras/login-integration-incorporate.php on line 42
+[01-Apr-2021 01:04:01 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8_general_ci,COERCIBLE) for operation '='' in /home/nikkenlatam/public_html/interno/carrito-compras/login-integration-incorporate.php:42
+Stack trace:
+#0 /home/nikkenlatam/public_html/interno/carrito-compras/login-integration-incorporate.php(42): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/nikkenlatam/public_html/interno/carrito-compras/login-integration-incorporate.php on line 42
+[01-Apr-2021 02:15:24 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8_general_ci,COERCIBLE) for operation '='' in /home/nikkenlatam/public_html/interno/carrito-compras/login-integration-incorporate.php:42
+Stack trace:
+#0 /home/nikkenlatam/public_html/interno/carrito-compras/login-integration-incorporate.php(42): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/nikkenlatam/public_html/interno/carrito-compras/login-integration-incorporate.php on line 42
+[24-May-2021 19:14:05 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8_general_ci,COERCIBLE) for operation '='' in /home/nikkenlatam/public_html/interno/carrito-compras/login-integration-incorporate.php:42
+Stack trace:
+#0 /home/nikkenlatam/public_html/interno/carrito-compras/login-integration-incorporate.php(42): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/nikkenlatam/public_html/interno/carrito-compras/login-integration-incorporate.php on line 42
+[24-May-2021 19:14:47 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8_general_ci,COERCIBLE) for operation '='' in /home/nikkenlatam/public_html/interno/carrito-compras/login-integration-incorporate.php:42
+Stack trace:
+#0 /home/nikkenlatam/public_html/interno/carrito-compras/login-integration-incorporate.php(42): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/nikkenlatam/public_html/interno/carrito-compras/login-integration-incorporate.php on line 42
+[24-May-2021 19:14:51 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8_general_ci,COERCIBLE) for operation '='' in /home/nikkenlatam/public_html/interno/carrito-compras/login-integration-incorporate.php:42
+Stack trace:
+#0 /home/nikkenlatam/public_html/interno/carrito-compras/login-integration-incorporate.php(42): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/nikkenlatam/public_html/interno/carrito-compras/login-integration-incorporate.php on line 42
+[25-May-2021 19:32:11 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8_general_ci,COERCIBLE) for operation '='' in /home/nikkenlatam/public_html/interno/carrito-compras/login-integration-incorporate.php:42
+Stack trace:
+#0 /home/nikkenlatam/public_html/interno/carrito-compras/login-integration-incorporate.php(42): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/nikkenlatam/public_html/interno/carrito-compras/login-integration-incorporate.php on line 42
+[05-Jun-2021 02:41:13 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8_general_ci,COERCIBLE) for operation '='' in /home/nikkenlatam/public_html/interno/carrito-compras/login-integration-incorporate.php:42
+Stack trace:
+#0 /home/nikkenlatam/public_html/interno/carrito-compras/login-integration-incorporate.php(42): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/nikkenlatam/public_html/interno/carrito-compras/login-integration-incorporate.php on line 42
+[12-Jun-2021 02:29:01 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8_general_ci,COERCIBLE) for operation '='' in /home/nikkenlatam/public_html/interno/carrito-compras/login-integration-incorporate.php:42
+Stack trace:
+#0 /home/nikkenlatam/public_html/interno/carrito-compras/login-integration-incorporate.php(42): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/nikkenlatam/public_html/interno/carrito-compras/login-integration-incorporate.php on line 42
